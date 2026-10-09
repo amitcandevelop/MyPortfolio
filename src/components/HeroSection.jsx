@@ -12,7 +12,7 @@ const HeroSection = () => {
                     <span className='text-gradient ml-2 opacity-0 animate-fade-in-delay-2'>{" "} Singh</span>
                 </h1>
 
-                <p className='text-lg md:text-xl  text-muted-foreground max-2-2xl mx-auto opacity-0 animate-fade-in-delay-3'>
+                <p className='text-lg md:text-xl  text-muted-foreground max-w-2xl mx-auto opacity-0 animate-fade-in-delay-3'>
                     I'm a Software Developer passionate about building modern, scalable web applications.
                     I enjoy turning ideas into clean, interactive experiences while continuously learning
                     new technologies and improving my problem-solving skills.

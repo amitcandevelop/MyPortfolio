@@ -60,7 +60,7 @@ const SkillsSection = () => {
                         </div>
 
                         <div className="text-right mt-1">
-                            <span className='text-gm text-muted-foreground'>{skill.level}%</span>
+                            <span className='text-sm text-muted-foreground'>{skill.level}%</span>
                         </div>
                     </div>
 

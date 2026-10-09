@@ -69,7 +69,7 @@ const ProjectSection = () => {
           frontend development, backend engineering, APIs, databases, and AI.
         </p>
 
-        {/* Projects Grid */}
+        {/* Projects Grid */}   
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
           {projects.map((project) => (
             <div

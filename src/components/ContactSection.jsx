@@ -105,7 +105,7 @@ const ContactSection = () => {
                                 id="name"
                                 name="name"
                                 required
-                                className="w-full px-4 py-3 rounded-md border border-input bg-background focus:outline-hidden foucs:ring-2 focus:ring-primary"
+                                className="w-full px-4 py-3 rounded-md border border-input bg-background focus:outline-hidden focus:ring-2 focus:ring-primary"
                                 placeholder="Enter your name"
                             />
                         </div>
@@ -123,7 +123,7 @@ const ContactSection = () => {
                                 id="email"
                                 name="email"
                                 required
-                                className="w-full px-4 py-3 rounded-md border border-input bg-background focus:outline-hidden foucs:ring-2 focus:ring-primary"
+                                className="w-full px-4 py-3 rounded-md border border-input bg-background focus:outline-hidden focus:ring-2 focus:ring-primary"
                                 placeholder="john@gmail.com"
                             />
                         </div>
@@ -140,7 +140,7 @@ const ContactSection = () => {
                                 id="message"
                                 name="message"
                                 required
-                                className="w-full px-4 py-3 rounded-md border border-input bg-background focus:outline-hidden foucs:ring-2 focus:ring-primary resize-none"
+                                className="w-full px-4 py-3 rounded-md border border-input bg-background focus:outline-hidden focus:ring-2 focus:ring-primary resize-none"
                                 placeholder="Hello, I'd like to talk about..."
                             />
                         </div>
